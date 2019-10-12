@@ -1,2 +1,7 @@
     background-color: rgba(34, 34, 34, 0.7);
     backdrop-filter: saturate(180%) blur(20px);
+	
+	or
+	
+	background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: saturate(180%) blur(20px);
